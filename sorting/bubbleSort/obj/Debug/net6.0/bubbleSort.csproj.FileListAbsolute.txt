@@ -1,0 +1,15 @@
+/root/algo/sorting/bubbleSort/bin/Debug/net6.0/bubbleSort
+/root/algo/sorting/bubbleSort/bin/Debug/net6.0/bubbleSort.deps.json
+/root/algo/sorting/bubbleSort/bin/Debug/net6.0/bubbleSort.runtimeconfig.json
+/root/algo/sorting/bubbleSort/bin/Debug/net6.0/bubbleSort.dll
+/root/algo/sorting/bubbleSort/bin/Debug/net6.0/bubbleSort.pdb
+/root/algo/sorting/bubbleSort/obj/Debug/net6.0/bubbleSort.csproj.AssemblyReference.cache
+/root/algo/sorting/bubbleSort/obj/Debug/net6.0/bubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+/root/algo/sorting/bubbleSort/obj/Debug/net6.0/bubbleSort.AssemblyInfoInputs.cache
+/root/algo/sorting/bubbleSort/obj/Debug/net6.0/bubbleSort.AssemblyInfo.cs
+/root/algo/sorting/bubbleSort/obj/Debug/net6.0/bubbleSort.csproj.CoreCompileInputs.cache
+/root/algo/sorting/bubbleSort/obj/Debug/net6.0/bubbleSort.dll
+/root/algo/sorting/bubbleSort/obj/Debug/net6.0/refint/bubbleSort.dll
+/root/algo/sorting/bubbleSort/obj/Debug/net6.0/bubbleSort.pdb
+/root/algo/sorting/bubbleSort/obj/Debug/net6.0/bubbleSort.genruntimeconfig.cache
+/root/algo/sorting/bubbleSort/obj/Debug/net6.0/ref/bubbleSort.dll
