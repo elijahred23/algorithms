@@ -1,0 +1,15 @@
+/root/algorithms/graph/bfs/obj/Debug/net6.0/bfs.csproj.AssemblyReference.cache
+/root/algorithms/graph/bfs/obj/Debug/net6.0/bfs.GeneratedMSBuildEditorConfig.editorconfig
+/root/algorithms/graph/bfs/obj/Debug/net6.0/bfs.AssemblyInfoInputs.cache
+/root/algorithms/graph/bfs/obj/Debug/net6.0/bfs.AssemblyInfo.cs
+/root/algorithms/graph/bfs/obj/Debug/net6.0/bfs.csproj.CoreCompileInputs.cache
+/root/algorithms/graph/bfs/bin/Debug/net6.0/bfs
+/root/algorithms/graph/bfs/bin/Debug/net6.0/bfs.deps.json
+/root/algorithms/graph/bfs/bin/Debug/net6.0/bfs.runtimeconfig.json
+/root/algorithms/graph/bfs/bin/Debug/net6.0/bfs.dll
+/root/algorithms/graph/bfs/bin/Debug/net6.0/bfs.pdb
+/root/algorithms/graph/bfs/obj/Debug/net6.0/bfs.dll
+/root/algorithms/graph/bfs/obj/Debug/net6.0/refint/bfs.dll
+/root/algorithms/graph/bfs/obj/Debug/net6.0/bfs.pdb
+/root/algorithms/graph/bfs/obj/Debug/net6.0/bfs.genruntimeconfig.cache
+/root/algorithms/graph/bfs/obj/Debug/net6.0/ref/bfs.dll
