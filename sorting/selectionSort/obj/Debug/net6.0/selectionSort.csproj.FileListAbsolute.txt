@@ -1,0 +1,15 @@
+/root/algorithms/sorting/selectionSort/obj/Debug/net6.0/selectionSort.csproj.AssemblyReference.cache
+/root/algorithms/sorting/selectionSort/obj/Debug/net6.0/selectionSort.GeneratedMSBuildEditorConfig.editorconfig
+/root/algorithms/sorting/selectionSort/obj/Debug/net6.0/selectionSort.AssemblyInfoInputs.cache
+/root/algorithms/sorting/selectionSort/obj/Debug/net6.0/selectionSort.AssemblyInfo.cs
+/root/algorithms/sorting/selectionSort/obj/Debug/net6.0/selectionSort.csproj.CoreCompileInputs.cache
+/root/algorithms/sorting/selectionSort/bin/Debug/net6.0/selectionSort
+/root/algorithms/sorting/selectionSort/bin/Debug/net6.0/selectionSort.deps.json
+/root/algorithms/sorting/selectionSort/bin/Debug/net6.0/selectionSort.runtimeconfig.json
+/root/algorithms/sorting/selectionSort/bin/Debug/net6.0/selectionSort.dll
+/root/algorithms/sorting/selectionSort/bin/Debug/net6.0/selectionSort.pdb
+/root/algorithms/sorting/selectionSort/obj/Debug/net6.0/selectionSort.dll
+/root/algorithms/sorting/selectionSort/obj/Debug/net6.0/refint/selectionSort.dll
+/root/algorithms/sorting/selectionSort/obj/Debug/net6.0/selectionSort.pdb
+/root/algorithms/sorting/selectionSort/obj/Debug/net6.0/selectionSort.genruntimeconfig.cache
+/root/algorithms/sorting/selectionSort/obj/Debug/net6.0/ref/selectionSort.dll
