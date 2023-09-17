@@ -6,7 +6,7 @@ namespace QuickSortExample
 	{
 		static void Main(string[] args)
 		{
-			int[] arr = {12,11,13,5,6};
+			int[] arr = GenerateRandomArray(10);
 
 			int n = arr.Length;
 
@@ -60,6 +60,17 @@ namespace QuickSortExample
 				Console.Write(item + " ");
 			}
 			Console.WriteLine();
+		}
+		static int[] GenerateRandomArray(int length)
+		{
+			Random random = new Random();
+			int[] arr = new int[length];
+
+			for(int i = 0; i < length; i++)
+			{
+				arr[i] = random.Next(1,100);
+			}
+			return arr;
 		}
 	}
 }
