@@ -1,0 +1,15 @@
+/root/algorithms/sorting/insertionSort/bin/Debug/net6.0/insertionSort
+/root/algorithms/sorting/insertionSort/bin/Debug/net6.0/insertionSort.deps.json
+/root/algorithms/sorting/insertionSort/bin/Debug/net6.0/insertionSort.runtimeconfig.json
+/root/algorithms/sorting/insertionSort/bin/Debug/net6.0/insertionSort.dll
+/root/algorithms/sorting/insertionSort/bin/Debug/net6.0/insertionSort.pdb
+/root/algorithms/sorting/insertionSort/obj/Debug/net6.0/insertionSort.csproj.AssemblyReference.cache
+/root/algorithms/sorting/insertionSort/obj/Debug/net6.0/insertionSort.GeneratedMSBuildEditorConfig.editorconfig
+/root/algorithms/sorting/insertionSort/obj/Debug/net6.0/insertionSort.AssemblyInfoInputs.cache
+/root/algorithms/sorting/insertionSort/obj/Debug/net6.0/insertionSort.AssemblyInfo.cs
+/root/algorithms/sorting/insertionSort/obj/Debug/net6.0/insertionSort.csproj.CoreCompileInputs.cache
+/root/algorithms/sorting/insertionSort/obj/Debug/net6.0/insertionSort.dll
+/root/algorithms/sorting/insertionSort/obj/Debug/net6.0/refint/insertionSort.dll
+/root/algorithms/sorting/insertionSort/obj/Debug/net6.0/insertionSort.pdb
+/root/algorithms/sorting/insertionSort/obj/Debug/net6.0/insertionSort.genruntimeconfig.cache
+/root/algorithms/sorting/insertionSort/obj/Debug/net6.0/ref/insertionSort.dll
