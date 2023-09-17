@@ -1,0 +1,15 @@
+/root/algorithms/sorting/mergeSort/obj/Debug/net6.0/mergeSort.csproj.AssemblyReference.cache
+/root/algorithms/sorting/mergeSort/obj/Debug/net6.0/mergeSort.GeneratedMSBuildEditorConfig.editorconfig
+/root/algorithms/sorting/mergeSort/obj/Debug/net6.0/mergeSort.AssemblyInfoInputs.cache
+/root/algorithms/sorting/mergeSort/obj/Debug/net6.0/mergeSort.AssemblyInfo.cs
+/root/algorithms/sorting/mergeSort/obj/Debug/net6.0/mergeSort.csproj.CoreCompileInputs.cache
+/root/algorithms/sorting/mergeSort/bin/Debug/net6.0/mergeSort
+/root/algorithms/sorting/mergeSort/bin/Debug/net6.0/mergeSort.deps.json
+/root/algorithms/sorting/mergeSort/bin/Debug/net6.0/mergeSort.runtimeconfig.json
+/root/algorithms/sorting/mergeSort/bin/Debug/net6.0/mergeSort.dll
+/root/algorithms/sorting/mergeSort/bin/Debug/net6.0/mergeSort.pdb
+/root/algorithms/sorting/mergeSort/obj/Debug/net6.0/mergeSort.dll
+/root/algorithms/sorting/mergeSort/obj/Debug/net6.0/refint/mergeSort.dll
+/root/algorithms/sorting/mergeSort/obj/Debug/net6.0/mergeSort.pdb
+/root/algorithms/sorting/mergeSort/obj/Debug/net6.0/mergeSort.genruntimeconfig.cache
+/root/algorithms/sorting/mergeSort/obj/Debug/net6.0/ref/mergeSort.dll
